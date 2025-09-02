@@ -21,7 +21,6 @@ Este projeto apresenta uma **análise exploratória de dados (EDA)** do dataset 
 
 - `EDA_20_Fonts.ipynb` : Notebook com todo o processo de análise exploratória
 - `README.md` : Documentação do projeto
-- (Opcional) `datasets_sample/` : Pequena amostra do dataset para facilitar execução
 
 ## Principais Análises
 
