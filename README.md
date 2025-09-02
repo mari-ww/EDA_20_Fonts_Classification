@@ -35,3 +35,14 @@ Este projeto apresenta uma **análise exploratória de dados (EDA)** do dataset 
 1. Clonar o repositório
 ```bash
 git clone https://github.com/mari-ww/EDA_20_Fonts_Classification.git
+```
+
+2. Abrir o notebook EDA_20_Fonts.ipynb no Jupyter Notebook ou Google Colab.
+
+3. Instalar as dependências (se necessário):
+```bash
+pip install pandas matplotlib seaborn numpy
+```
+
+## Links Úteis
+Dataset original: [20 Fonts Classification - Kaggle](https://www.kaggle.com/datasets/samoilovmikhail/20-fonts-classification)
